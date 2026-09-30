@@ -1,0 +1,2 @@
+# Praktikum02ModelBarang-Putri
+ModulPraktikum02Barang
